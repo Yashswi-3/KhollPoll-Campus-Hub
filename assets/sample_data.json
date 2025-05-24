@@ -1,0 +1,43 @@
+{
+  "reviews": [
+    {
+      "user": "E22CSEU1156",
+      "breakfast": 4,
+      "lunch": 5,
+      "snacks": 3,
+      "dinner": 4,
+      "overall": 4.0,
+      "comments": "Great improvement in food quality!",
+      "timestamp": "2024-05-20T08:00:00"
+    },
+    {
+      "user": "E22CSEU1154",
+      "breakfast": 3,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.0,
+      "comments": "Dinner was excellent today.",
+      "timestamp": "2024-05-19T19:00:00"
+    }
+  ],
+  "events": [
+    {
+      "title": "Tech Fest 2024",
+      "date": "2024-06-15",
+      "venue": "Main Auditorium",
+      "organizer": "IEEE Club",
+      "category": "Technical",
+      "description": "Annual technical festival with competitions and workshops."
+    }
+  ],
+  "news": [
+    {
+      "title": "New Cafeteria Menu",
+      "content": "The mess committee has introduced new healthy options in the cafeteria menu.",
+      "author": "Mess Committee",
+      "category": "General",
+      "date": "2024-05-20"
+    }
+  ]
+}

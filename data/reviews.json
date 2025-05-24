@@ -1,0 +1,81 @@
+{
+  "reviews": [
+    {
+      "user": "E22CSEU1156",
+      "breakfast": 4,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 4,
+      "overall": 4.0,
+      "comments": "",
+      "timestamp": "2025-05-24T16:30:21.486000"
+    }
+  ],
+  "events": [
+    {
+      "organizer": "WIE",
+      "poster": "assets/img/l5.png",
+      "title": "FILS",
+      "description": "WIE is coming with FILS for freelancing, internship, linkedin and startup. Get to know about the important topics.",
+      "link": "https://example.com/fils",
+      "date": "2024-06-11",
+      "venue": "NLH-103",
+      "category": "Technical"
+    },
+    {
+      "organizer": "GFG",
+      "poster": "assets/img/s1.png",
+      "title": "SPIN THE CODE",
+      "description": "GFG presents SPIN the Code...",
+      "link": "https://example.com/spin_code",
+      "date": "2024-06-01",
+      "venue": "ALH-002",
+      "category": "Technical"
+    },
+    {
+      "organizer": "ATC",
+      "poster": "assets/img/s3.png",
+      "title": "BULLETPROOF",
+      "description": "Alan Turing Club: ...",
+      "link": "https://example.com/bulletproof",
+      "date": "2024-05-28",
+      "venue": "ALH-002",
+      "category": "Academic"
+    },
+    {
+      "title": "Bullet",
+      "date": "2025-05-24",
+      "venue": "002 ALH",
+      "organizer": "IEEE",
+      "category": "Academic",
+      "description": "new ",
+      "poster": "assets\\img\\s5.png",
+      "link": "",
+      "created_by": "E22CSEU1156",
+      "created_at": "2025-05-24T16:29:51.640355"
+    }
+  ],
+  "news": [
+    {
+      "title": "New Library Wing Opening",
+      "content": "The university is opening a new modern library wing with state-of-the-art facilities including digital study pods, collaborative spaces, and an extensive collection of e-books.",
+      "author": "Admin",
+      "category": "Infrastructure",
+      "date": "2024-05-20"
+    },
+    {
+      "title": "Summer Internship Program",
+      "content": "Applications are now open for the summer internship program with leading tech companies. Students can apply through the placement portal.",
+      "author": "Placement Cell",
+      "category": "Academic",
+      "date": "2024-05-18"
+    },
+    {
+      "title": "Sports Week 2024",
+      "content": "Annual sports week featuring various competitions and tournaments will be held from June 1-7. Registration is open for all students.",
+      "author": "Sports Committee",
+      "category": "Sports",
+      "date": "2024-05-15"
+    }
+  ]
+}
