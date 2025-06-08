@@ -57,8 +57,7 @@ def show_landing_page():
         width: 100%;
     }
     .stButton > button {
-        # width: 200px !important;
-        height: 56px !important;
+        height: 61px !important;
         font-size: 1.3rem !important;
         font-weight: 600 !important;
         border-radius: 28px !important;
