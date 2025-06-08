@@ -20,9 +20,14 @@ class SimpleDataManager:
             initial_data = {
                 "reviews": [],
                 "events": [],
-                "news": []
+                "news": [],
+                "users": [
+                    {"username": "admin", "password": "password123", "role": "admin"},
+                    {"username": "E22CSEU1156", "password": "student123", "role": "student"}
+                ]
             }
             self.save_data(initial_data)
+
     
     def load_data(self) -> Dict[str, List]:
         """Load data from JSON file"""
@@ -57,6 +62,31 @@ class SimpleDataManager:
         except Exception as e:
             print(f"Error saving data: {e}")
             return False
+        
+    def get_users(self):
+        data = self.load_data()
+        return data.get('users', [])
+
+    def add_user(self, username, password, role="student"):
+        data = self.load_data()
+        if 'users' not in data:
+            data['users'] = []
+        if any(u['username'] == username for u in data['users']):
+            return False
+        data['users'].append({
+            "username": username,
+            "password": password,
+            "role": role
+        })
+        self.save_data(data)
+        return True
+
+    def validate_user(self, username, password):
+        users = self.get_users()
+        for user in users:
+            if user['username'] == username and user['password'] == password:
+                return user
+        return None
     
     def add_review(self, review_data: Dict[str, Any]) -> bool:
         """Add a new review"""
@@ -275,6 +305,10 @@ class SimpleDataManager:
                 'recent_reviews': 0,
                 'avg_rating': 0
             }
+        
+    
+        
+
 
 # Add missing import for timedelta
 from datetime import timedelta
