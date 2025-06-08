@@ -110,54 +110,7 @@ def add_event_form(dm):
         st.info("Please contact an administrator to add events.")
         return
 
-    with st.form("add_event_form", clear_on_submit=True):
-        st.write("Fill in the event details below:")
-
-        title = st.text_input("Event Title*", placeholder="Tech Symposium 2024")
-
-        col1, col2 = st.columns(2)
-        with col1:
-            date = st.date_input("Event Date*", min_value=datetime.now().date())
-            venue = st.text_input("Venue*", placeholder="Main Auditorium")
-
-        with col2:
-            organizer = st.text_input("Organizer*", placeholder="IEEE Club")
-            category = st.selectbox("Category*", ["Academic", "Cultural", "Sports", "Technical"])
-
-        description = st.text_area("Description", placeholder="Event description...", height=100)
-        poster = st.text_input("Poster Image Path (optional)", placeholder="assets/fils.jpg")
-        link = st.text_input("Event Link (optional)", placeholder="https://...")
-
-        submitted = st.form_submit_button("Add Event", type="primary")
-
-        if submitted:
-            # Validate required fields
-            if not all([title, date, venue, organizer]):
-                st.error("❌ Please fill all required fields (marked with *).")
-                return
-
-            # Create event object
-            event = {
-                'title': title,
-                'date': date.isoformat(),
-                'venue': venue,
-                'organizer': organizer,
-                'category': category,
-                'description': description,
-                'poster': poster if poster else "assets/default.jpg",
-                'link': link,
-                'created_by': username,
-                'created_at': datetime.now().isoformat()
-            }
-
-            # Add to database
-            if dm.add_event(event):
-                st.success("✅ Event added successfully!")
-                st.balloons()
-                st.info("🔄 The event will appear in the 'Upcoming Events' tab.")
-                st.rerun()
-            else:
-                st.error("❌ Failed to add event. Please try again.")
+    
 
 def get_sample_events():
     return [
