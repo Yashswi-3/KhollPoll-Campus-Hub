@@ -34,7 +34,6 @@ def show_landing_page():
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        # height: 30vh;
         text-align: center;
     }
     .khollpoll-title {
@@ -58,7 +57,7 @@ def show_landing_page():
         width: 100%;
     }
     .stButton > button {
-        width: 260px !important;
+        # width: 200px !important;
         height: 56px !important;
         font-size: 1.3rem !important;
         font-weight: 600 !important;
