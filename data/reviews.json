@@ -9,50 +9,518 @@
       "overall": 4.0,
       "comments": "",
       "timestamp": "2025-05-24T16:30:21.486000"
+    },
+    {
+      "user": "E22CSEU1012",
+      "breakfast": 3,
+      "lunch": 4,
+      "snacks": 2,
+      "dinner": 3,
+      "overall": 3.0,
+      "comments": "Snacks could be better.",
+      "timestamp": "2025-05-24T17:10:12.152000"
+    },
+    {
+      "user": "E22CSEU1045",
+      "breakfast": 5,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.5,
+      "comments": "Very satisfied with all meals.",
+      "timestamp": "2025-05-24T17:15:33.780000"
+    },
+    {
+      "user": "E22CSEU1123",
+      "breakfast": 2,
+      "lunch": 3,
+      "snacks": 2,
+      "dinner": 2,
+      "overall": 2.3,
+      "comments": "Too oily, needs improvement.",
+      "timestamp": "2025-05-24T17:20:55.910000"
+    },
+    {
+      "user": "E22CSEU1101",
+      "breakfast": 4,
+      "lunch": 5,
+      "snacks": 4,
+      "dinner": 4,
+      "overall": 4.3,
+      "comments": "Lunch was excellent!",
+      "timestamp": "2025-05-24T17:25:00.000000"
+    },
+    {
+      "user": "E22CSEU1020",
+      "breakfast": 1,
+      "lunch": 2,
+      "snacks": 1,
+      "dinner": 2,
+      "overall": 1.5,
+      "comments": "Food was cold and not fresh.",
+      "timestamp": "2025-05-24T17:30:40.390000"
+    },
+    {
+      "user": "E22CSEU1078",
+      "breakfast": 5,
+      "lunch": 5,
+      "snacks": 5,
+      "dinner": 5,
+      "overall": 5.0,
+      "comments": "Amazing! Best day so far.",
+      "timestamp": "2025-05-24T17:33:21.893000"
+    },
+    {
+      "user": "E22CSEU1190",
+      "breakfast": 3,
+      "lunch": 3,
+      "snacks": 3,
+      "dinner": 3,
+      "overall": 3.0,
+      "comments": "Average overall.",
+      "timestamp": "2025-05-24T17:35:00.000000"
+    },
+    {
+      "user": "E22CSEU1157",
+      "breakfast": 2,
+      "lunch": 3,
+      "snacks": 2,
+      "dinner": 3,
+      "overall": 2.5,
+      "comments": "Please improve breakfast quality.",
+      "timestamp": "2025-05-24T17:36:15.263000"
+    },
+    {
+      "user": "E22CSEU1066",
+      "breakfast": 4,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.3,
+      "comments": "Loved the dinner!",
+      "timestamp": "2025-05-24T17:37:42.574000"
+    },
+    {
+      "user": "E22CSEU1030",
+      "breakfast": 5,
+      "lunch": 3,
+      "snacks": 5,
+      "dinner": 3,
+      "overall": 4.0,
+      "comments": "Breakfast and snacks were excellent.",
+      "timestamp": "2025-05-24T17:39:00.000000"
+    },
+    {
+      "user": "E22CSEU1115",
+      "breakfast": 2,
+      "lunch": 2,
+      "snacks": 2,
+      "dinner": 2,
+      "overall": 2.0,
+      "comments": "Same menu every day.",
+      "timestamp": "2025-05-24T17:41:13.120000"
+    },
+    {
+      "user": "E22CSEU1170",
+      "breakfast": 4,
+      "lunch": 3,
+      "snacks": 4,
+      "dinner": 4,
+      "overall": 3.8,
+      "comments": "Good food but lunch felt bland.",
+      "timestamp": "2025-05-24T17:42:55.120000"
+    },
+    {
+      "user": "E22CSEU1099",
+      "breakfast": 1,
+      "lunch": 1,
+      "snacks": 1,
+      "dinner": 1,
+      "overall": 1.0,
+      "comments": "Very bad experience today.",
+      "timestamp": "2025-05-24T17:44:22.442000"
+    },
+    {
+      "user": "E22CSEU1145",
+      "breakfast": 5,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.5,
+      "comments": "Good variety and taste.",
+      "timestamp": "2025-05-24T17:45:56.300000"
+    },
+    {
+      "user": "E22CSEU1088",
+      "breakfast": 3,
+      "lunch": 3,
+      "snacks": 3,
+      "dinner": 4,
+      "overall": 3.3,
+      "comments": "Nice improvement in dinner.",
+      "timestamp": "2025-05-24T17:46:45.510000"
+    },
+    {
+      "user": "E22CSEU1166",
+      "breakfast": 4,
+      "lunch": 5,
+      "snacks": 3,
+      "dinner": 4,
+      "overall": 4.0,
+      "comments": "Lunch was impressive!",
+      "timestamp": "2025-05-24T17:47:30.340000"
+    },
+    {
+      "user": "E22CSEU1003",
+      "breakfast": 2,
+      "lunch": 2,
+      "snacks": 3,
+      "dinner": 2,
+      "overall": 2.3,
+      "comments": "Food lacked flavor.",
+      "timestamp": "2025-05-24T17:48:01.765000"
+    },
+    {
+      "user": "E22CSEU1133",
+      "breakfast": 3,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 3,
+      "overall": 3.5,
+      "comments": "Overall nice experience.",
+      "timestamp": "2025-05-24T17:49:27.987000"
+    },
+    {
+      "user": "E22CSEU1179",
+      "breakfast": 5,
+      "lunch": 4,
+      "snacks": 5,
+      "dinner": 5,
+      "overall": 4.8,
+      "comments": "Perfect meal today!",
+      "timestamp": "2025-05-24T17:50:52.673000"
+    },
+    {
+      "user": "E22CSEU1201",
+      "breakfast": 4,
+      "lunch": 3,
+      "snacks": 3,
+      "dinner": 4,
+      "overall": 3.5,
+      "comments": "Dinner was good, lunch was okay.",
+      "timestamp": "2025-05-24T17:51:12.001000"
+    },
+    {
+      "user": "E22CSEU1202",
+      "breakfast": 5,
+      "lunch": 5,
+      "snacks": 5,
+      "dinner": 4,
+      "overall": 4.8,
+      "comments": "Tasty and fresh meals.",
+      "timestamp": "2025-05-24T17:51:55.100000"
+    },
+    {
+      "user": "E22CSEU1203",
+      "breakfast": 3,
+      "lunch": 2,
+      "snacks": 3,
+      "dinner": 3,
+      "overall": 2.8,
+      "comments": "Needs more variety.",
+      "timestamp": "2025-05-24T17:52:34.876000"
+    },
+    {
+      "user": "E22CSEU1204",
+      "breakfast": 1,
+      "lunch": 2,
+      "snacks": 1,
+      "dinner": 2,
+      "overall": 1.5,
+      "comments": "Not satisfied at all.",
+      "timestamp": "2025-05-24T17:53:13.042000"
+    },
+    {
+      "user": "E22CSEU1205",
+      "breakfast": 5,
+      "lunch": 5,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.8,
+      "comments": "Great as always!",
+      "timestamp": "2025-05-24T17:53:57.230000"
+    },
+    {
+      "user": "E22CSEU1206",
+      "breakfast": 2,
+      "lunch": 3,
+      "snacks": 2,
+      "dinner": 2,
+      "overall": 2.3,
+      "comments": "Oily and repetitive.",
+      "timestamp": "2025-05-24T17:54:30.410000"
+    },
+    {
+      "user": "E22CSEU1207",
+      "breakfast": 4,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 4,
+      "overall": 4.0,
+      "comments": "All meals were decent today.",
+      "timestamp": "2025-05-24T17:55:05.321000"
+    },
+    {
+      "user": "E22CSEU1208",
+      "breakfast": 3,
+      "lunch": 4,
+      "snacks": 3,
+      "dinner": 3,
+      "overall": 3.3,
+      "comments": "Good overall, especially lunch.",
+      "timestamp": "2025-05-24T17:55:40.654000"
+    },
+    {
+      "user": "E22CSEU1209",
+      "breakfast": 2,
+      "lunch": 2,
+      "snacks": 3,
+      "dinner": 3,
+      "overall": 2.5,
+      "comments": "Room for improvement.",
+      "timestamp": "2025-05-24T17:56:20.177000"
+    },
+    {
+      "user": "E22CSEU1210",
+      "breakfast": 5,
+      "lunch": 5,
+      "snacks": 5,
+      "dinner": 5,
+      "overall": 5.0,
+      "comments": "Perfect meals today.",
+      "timestamp": "2025-05-24T17:56:55.240000"
+    },
+    {
+      "user": "E22CSEU1211",
+      "breakfast": 4,
+      "lunch": 4,
+      "snacks": 3,
+      "dinner": 4,
+      "overall": 3.8,
+      "comments": "Snacks could be better.",
+      "timestamp": "2025-05-24T17:57:30.980000"
+    },
+    {
+      "user": "E22CSEU1212",
+      "breakfast": 3,
+      "lunch": 2,
+      "snacks": 2,
+      "dinner": 3,
+      "overall": 2.5,
+      "comments": "Felt bland.",
+      "timestamp": "2025-05-24T17:58:10.432000"
+    },
+    {
+      "user": "E22CSEU1213",
+      "breakfast": 4,
+      "lunch": 5,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.5,
+      "comments": "Loved it!",
+      "timestamp": "2025-05-24T17:58:55.219000"
+    },
+    {
+      "user": "E22CSEU1214",
+      "breakfast": 1,
+      "lunch": 1,
+      "snacks": 1,
+      "dinner": 1,
+      "overall": 1.0,
+      "comments": "Worst experience so far.",
+      "timestamp": "2025-05-24T17:59:30.410000"
+    },
+    {
+      "user": "E22CSEU1215",
+      "breakfast": 2,
+      "lunch": 3,
+      "snacks": 3,
+      "dinner": 2,
+      "overall": 2.5,
+      "comments": "Not hot and fresh.",
+      "timestamp": "2025-05-24T18:00:12.101000"
+    },
+    {
+      "user": "E22CSEU1216",
+      "breakfast": 5,
+      "lunch": 5,
+      "snacks": 5,
+      "dinner": 5,
+      "overall": 5.0,
+      "comments": "Excellent taste and hygiene.",
+      "timestamp": "2025-05-24T18:00:51.872000"
+    },
+    {
+      "user": "E22CSEU1217",
+      "breakfast": 4,
+      "lunch": 4,
+      "snacks": 5,
+      "dinner": 4,
+      "overall": 4.3,
+      "comments": "Snacks were amazing!",
+      "timestamp": "2025-05-24T18:01:33.114000"
+    },
+    {
+      "user": "E22CSEU1218",
+      "breakfast": 3,
+      "lunch": 2,
+      "snacks": 2,
+      "dinner": 2,
+      "overall": 2.3,
+      "comments": "Needs better quality ingredients.",
+      "timestamp": "2025-05-24T18:02:15.320000"
+    },
+    {
+      "user": "E22CSEU1219",
+      "breakfast": 5,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.5,
+      "comments": "Impressive taste!",
+      "timestamp": "2025-05-24T18:02:58.901000"
+    },
+    {
+      "user": "E22CSEU1220",
+      "breakfast": 2,
+      "lunch": 2,
+      "snacks": 2,
+      "dinner": 3,
+      "overall": 2.3,
+      "comments": "Could be more nutritious.",
+      "timestamp": "2025-05-24T18:03:40.309000"
+    },
+    {
+      "user": "E22CSEU1221",
+      "breakfast": 5,
+      "lunch": 4,
+      "snacks": 4,
+      "dinner": 5,
+      "overall": 4.5,
+      "comments": "Good portion size.",
+      "timestamp": "2025-05-24T18:04:22.198000"
+    },
+    {
+      "user": "E22CSEU1222",
+      "breakfast": 3,
+      "lunch": 3,
+      "snacks": 3,
+      "dinner": 3,
+      "overall": 3.0,
+      "comments": "Satisfactory.",
+      "timestamp": "2025-05-24T18:05:00.888000"
+    },
+    {
+      "user": "E22CSEU1223",
+      "breakfast": 2,
+      "lunch": 3,
+      "snacks": 3,
+      "dinner": 2,
+      "overall": 2.5,
+      "comments": "Salt was less in dinner.",
+      "timestamp": "2025-05-24T18:05:42.101000"
+    },
+    {
+      "user": "E22CSEU1224",
+      "breakfast": 4,
+      "lunch": 4,
+      "snacks": 3,
+      "dinner": 4,
+      "overall": 3.8,
+      "comments": "Balanced and healthy.",
+      "timestamp": "2025-05-24T18:06:21.332000"
+    },
+    {
+      "user": "E22CSEU1225",
+      "breakfast": 1,
+      "lunch": 2,
+      "snacks": 1,
+      "dinner": 1,
+      "overall": 1.3,
+      "comments": "Unpleasant experience.",
+      "timestamp": "2025-05-24T18:07:03.191000"
     }
   ],
   "events": [
     {
-      "organizer": "WIE",
-      "poster": "assets/img/l5.png",
-      "title": "FILS",
-      "description": "WIE is coming with FILS for freelancing, internship, linkedin and startup. Get to know about the important topics.",
-      "link": "https://example.com/fils",
-      "date": "2024-06-11",
-      "venue": "NLH-103",
-      "category": "Technical"
-    },
-    {
-      "organizer": "GFG",
+      "organizer": "GeeksforGeeks Student Chapter",
       "poster": "assets/img/s1.png",
       "title": "SPIN THE CODE",
-      "description": "GFG presents SPIN the Code...",
+      "description": "GFG presents 'SPIN THE CODE' – a thrilling technical event where participants will engage in fast-paced coding rounds to test their algorithmic skills. When in doubt, just spin out!",
       "link": "https://example.com/spin_code",
       "date": "2024-06-01",
       "venue": "ALH-002",
       "category": "Technical"
     },
     {
-      "organizer": "ATC",
+      "organizer": "CodeChef Bennett University",
+      "poster": "assets/img/s2.png",
+      "title": "CodeChef Symposium",
+      "description": "Take a step ahead in coding! CodeChef Symposium brings a full day of competitive programming sessions, workshops, and contests. Perfect for all coding enthusiasts looking to sharpen their edge.",
+      "link": "https://example.com/codechef_symposium",
+      "date": "2024-06-08",
+      "venue": "NLH-101",
+      "category": "Technical"
+    },
+    {
+      "organizer": "GDSC Bennett University in collaboration with Full Stack Club",
       "poster": "assets/img/s3.png",
+      "title": "Android Campus Fest",
+      "description": "Explore the world of Android development with expert sessions, hands-on workshops, and collaborative learning. Hosted by GDSC and Android Educators in partnership with Full Stack Club.",
+      "link": "https://example.com/android_campus_fest",
+      "date": "2024-06-10",
+      "venue": "NLH-201",
+      "category": "Technical"
+    },
+    {
+      "organizer": "Drama Club - Bennett University",
+      "poster": "assets/img/s4.png",
+      "title": "The Boos and Hoos",
+      "description": "An eerie, suspenseful drama production that blends fear with emotional storytelling. Come witness a performance that will leave you spooked and moved.",
+      "link": "https://example.com/boos_and_hoos",
+      "date": "2024-10-31",
+      "venue": "Bennett Auditorium",
+      "category": "Cultural"
+    },
+    {
+      "organizer": "Alan Turing Club",
+      "poster": "assets/img/s5.png",
       "title": "BULLETPROOF",
-      "description": "Alan Turing Club: ...",
+      "description": "BULLETPROOF is a cybersecurity awareness and training event aimed at empowering students with the basics of cyber safety, ethical hacking, and secure practices. Believe you can.",
       "link": "https://example.com/bulletproof",
       "date": "2024-05-28",
       "venue": "ALH-002",
       "category": "Academic"
     },
     {
-      "title": "Bullet",
-      "date": "2025-05-24",
-      "venue": "002 ALH",
-      "organizer": "IEEE",
-      "category": "Academic",
-      "description": "new ",
-      "poster": "assets\\img\\s5.png",
-      "link": "",
-      "created_by": "E22CSEU1156",
-      "created_at": "2025-05-24T16:29:51.640355"
+      "organizer": "Ansh - The Theatre Society",
+      "poster": "assets/img/s6.png",
+      "title": "Nukkad Natak",
+      "description": "Ansh presents Nukkad Natak — a powerful street play performance tackling social issues with impactful acting and thought-provoking narratives.",
+      "link": "https://example.com/nukkad_natak",
+      "date": "2024-06-15",
+      "venue": "Campus Open Arena",
+      "category": "Cultural"
+    },
+    {
+      "organizer": "WIE (Women in Engineering - IEEE Student Branch)",
+      "poster": "assets/img/ss.png",
+      "title": "FILS: Freelancing, Internships, LinkedIn, and Startups",
+      "description": "WIE presents FILS — your ultimate guide to Freelancing, Internships, LinkedIn building, and Startup planning. Gain insights from industry speakers to supercharge your career path.",
+      "link": "https://example.com/fils",
+      "date": "2024-06-11",
+      "venue": "NLH-103",
+      "category": "Technical"
     }
   ],
   "news": [
@@ -76,12 +544,106 @@
       "author": "Sports Committee",
       "category": "Sports",
       "date": "2024-05-15"
+    },
+    {
+      "title": "AI Workshop Series",
+      "content": "Join the upcoming series of AI workshops conducted by industry experts. Open to all branches, starting June 10.",
+      "author": "IEEE BU Chapter",
+      "category": "Academic",
+      "date": "2024-05-22"
+    },
+    {
+      "title": "Blood Donation Camp",
+      "content": "A blood donation camp will be organized in collaboration with Red Cross on June 5 in the medical block.",
+      "author": "NSS Unit",
+      "category": "Social",
+      "date": "2024-05-21"
+    },
+    {
+      "title": "Hackathon 5.0 Launch",
+      "content": "Registrations for Hackathon 5.0 are now open. Teams can register through the CodeChef BU portal before May 30.",
+      "author": "CodeChef BU",
+      "category": "Technical",
+      "date": "2024-05-19"
+    },
+    {
+      "title": "Campus Clean-Up Drive",
+      "content": "Join the green initiative by participating in the campus clean-up drive this Saturday from 8 AM to 11 AM.",
+      "author": "Environment Club",
+      "category": "Social",
+      "date": "2024-05-17"
+    },
+    {
+      "title": "New Cafeteria Menu",
+      "content": "The campus cafeteria has introduced a new summer menu featuring healthier options and fresh juices.",
+      "author": "Admin",
+      "category": "Infrastructure",
+      "date": "2024-05-16"
+    },
+    {
+      "title": "Cultural Fest Auditions",
+      "content": "Auditions for the annual cultural fest will be held from May 25-28 in the auditorium. All categories welcome.",
+      "author": "Cultural Committee",
+      "category": "Cultural",
+      "date": "2024-05-14"
+    },
+    {
+      "title": "Library Orientation Session",
+      "content": "New students are invited to attend the library orientation session to learn about e-resources and services.",
+      "author": "Library Staff",
+      "category": "Academic",
+      "date": "2024-05-13"
+    },
+    {
+      "title": "Women in Tech Meet-up",
+      "content": "IEEE WIE is hosting a Women in Tech meet-up to discuss career growth and mentorship opportunities.",
+      "author": "IEEE WIE Bennett",
+      "category": "Community",
+      "date": "2024-05-12"
+    },
+    {
+      "title": "Photography Contest",
+      "content": "Submit your best shots for the BU Photography Contest 2024. Last date to submit is June 2.",
+      "author": "Media Cell",
+      "category": "Cultural",
+      "date": "2024-05-10"
+    },
+    {
+      "title": "Exam Schedule Released",
+      "content": "The final semester exam schedule has been published on the student portal. Check your time slots and venues.",
+      "author": "Academic Section",
+      "category": "Academic",
+      "date": "2024-05-09"
+    },
+    {
+      "title": "Open Mic Night",
+      "content": "Join us for Open Mic Night this Friday at the student lounge. Sing, perform, or just enjoy the vibe!",
+      "author": "Literary Club",
+      "category": "Cultural",
+      "date": "2024-05-08"
+    },
+    {
+      "title": "Coding Bootcamp Enrollment",
+      "content": "Intensive coding bootcamp starting from June 12. Learn full-stack development in 4 weeks. Limited seats.",
+      "author": "Skill Lab",
+      "category": "Technical",
+      "date": "2024-05-07"
     }
   ],
   "users": [
     {
       "username": "E22CSEU1154",
       "password": "12345",
+      "role": "student"
+    },
+    {
+      "username": "E22CSEU1157",
+      "password": "qwerty",
+      "role": "student"
+    },
+    {
+      "username": "yashswishukla@gmail.com",
+      "password": "yash",
       "role": "student"
     }
   ]
