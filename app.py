@@ -5,8 +5,8 @@ from components.ui import load_css, render_header
 
 # Page config
 st.set_page_config(
-    page_title="KhollPoll - Campus Hub",
-    page_icon="🎓",
+    page_title="KhollPoll",
+    page_icon=r"assets\img\logo.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
